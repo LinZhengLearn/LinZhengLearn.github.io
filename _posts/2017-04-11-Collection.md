@@ -6,8 +6,6 @@ description: Java Collections Framework
 keywords: JDK, JCF
 ---
 
-[TOC]
-
 # 介绍
 
 ## 什么是容器？
@@ -38,7 +36,7 @@ keywords: JDK, JCF
 
 为了规范容器的行为，统一设计，JCF定义了14种容器接口（collection interfaces），它们的关系如下图所示： 
 
-![JCF接口](../images/posts/JCF/JCF_Collection_Interfaces.png)
+![JCF接口](/images/posts/JCF/JCF_Collection_Interfaces.png)
 
 ### Collection 
 
@@ -94,8 +92,6 @@ Entry是Map中的一个内部接口，Entry< K,V >里包含key，value。
 - 可以将Map看作是Entry的一个Collection。
 
 # 实现（Implementations）
-
-
 
 上述接口的通用实现见下表：
 
