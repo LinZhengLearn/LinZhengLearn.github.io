@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java源码系列之JCF概览
-categories: Java
+categories: [Java, JCF]
 description: Java Collections Framework
 keywords: JDK, JCF, Collection, Map
 ---
