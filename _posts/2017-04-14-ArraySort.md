@@ -8,6 +8,15 @@ keywords: algorithm, array, sort
 
 数组的排序算法有很多，本文对常用的排序算法做了一下总结，并用Java实现（默认从小到大）。
 
+## 简要比较
+
+![](/images/posts/Algorithm/sort.png)
+
+- 均按从小到大排列
+- k代表数值中的"数位"个数
+- n代表数据规模
+- m代表数据的最大值减最小值
+
 ## 交换排序
 
 ### 冒泡排序
